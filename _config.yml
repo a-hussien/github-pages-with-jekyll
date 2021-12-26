@@ -11,4 +11,4 @@ github_username:  a-hussien
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
-theme : minima
+theme: minima
